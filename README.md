@@ -4,5 +4,4 @@ Jnu & UoB
 
 Msc in MAM
 
-Mathematics change the world 🤔
-
+NLPer
