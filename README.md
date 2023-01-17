@@ -1,6 +1,6 @@
 Hi, I’m @Rcrossmeister
 
-Jnu & UoB
+Jinan University
 
 Msc in MAM
 
