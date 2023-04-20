@@ -2,6 +2,6 @@ Hi, I’m @Rcrossmeister
 
 Jinan University
 
-Msc in MAM
+Bsc in MAM
 
 NLPer
