@@ -1,7 +1,7 @@
 Hi, I’m @Rcrossmeister
 
-Jinan University
+Jinan University & University of Birmingham
 
-Bsc in MAM
+Bsc-Mathematics and Applied Mathematics
 
-NLPer
+Tiny NLP Researcher
