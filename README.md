@@ -4,4 +4,4 @@ Jinan University & University of Birmingham
 
 Bsc-Mathematics and Applied Mathematics
 
-Tiny NLP Researcher
+NLP Rookie
