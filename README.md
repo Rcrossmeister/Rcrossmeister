@@ -1,3 +1,3 @@
 Hi, I’m @Rcrossmeister
 
-NLP Rookie
+a Vibrant Individual
